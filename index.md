@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[通往ChatGPT的传送门](chatgpt.nerver.icu).
+[通往ChatGPT的传送门](https://chatgpt.nerver.icu/).
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
