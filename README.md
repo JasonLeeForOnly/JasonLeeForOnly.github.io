@@ -1,2 +1,2 @@
 # JasonLeeForOnly.github.io
-Personal Boolg
+Personal Blog
